@@ -33,6 +33,7 @@ References for low level programming. Feel free to [create a PR](https://github.
 - [**Assembly Tutorial - AMD64/Intel 64 bit programming**](https://github.com/mschwartz/assembly-tutorial)
 - [**PC Assembly Language (Book)**](http://pacman128.github.io/pcasm/)
 - [**Intel® 64 and IA-32 Architectures Software Developer**](https://www.intel.com/content/www/us/en/developer/articles/technical/intel-sdm.html)
+- [**Asm-Lessons**](https://github.com/FFmpeg/asm-lessons) 
 
 ## CPU EMULATOR
 
